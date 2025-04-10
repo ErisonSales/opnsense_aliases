@@ -1,7 +1,6 @@
 ### **Principais serviços de streaming pagos**  
 www.netflix.com
 www.primevideo.com
-www.disneyplus.com
 www.max.com
 tv.apple.com
 www.starplus.com
@@ -20,7 +19,29 @@ www.oldflix.com.br
 www.rakuten.tv
 www.looke.com.br
 www.belasartesalacarte.com.br
+
+### disneyplus ###
+www.disneyplus.com
+bam-sdk-configs.bamgrid.com
+cd-dmgz.bamgrid.com
+cnbl-cdn.bamgrid.com
+config-cd-dmgz.bamgrid.com
+disney.api.edge.bamgrid.com
+disney.connections.edge.bamgrid.com
+disney.content.edge.bamgrid.com
+disney.images.edge.bamgrid.com
+disney.playback.edge.bamgrid.com
+dss-hydra-feeds-prod.bamgrid.com
+espn.api.edge.bamgrid.com
+espn.connections.edge.bamgrid.com
+hulu.playback.edge.bamgrid.com
+pcs.bamgrid.com
+playback-certs.bamgrid.com
+prod-ripcut-delivery.bamgrid.com
+static-assets.bamgrid.com
+us.edge.bamgrid.com
+vpe-static.bamgrid.com
+prod-static.disney-plus.net
 ### **Plataformas de compartilhamento de vídeos**  
-www.youtube.com
 www.vimeo.com
 www.dailymotion.com
